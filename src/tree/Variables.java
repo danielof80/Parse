@@ -1,4 +1,4 @@
-package tree; 
+package tree;
 
 class Variables extends Tree {
 
